@@ -1,0 +1,177 @@
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\REGISTER.dll.config
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\REGISTER.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\REGISTER.pdb
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csc.exe
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csc.exe.config
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csc.rsp
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csi.exe
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csi.exe.config
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\csi.rsp
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.AppContext.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Console.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Net.Http.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Net.Sockets.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.ValueTuple.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\vbc.exe
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\vbc.exe.config
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\vbc.rsp
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seyed\source\repos\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.AssemblyReference.cache
+C:\Users\seyed\source\repos\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CoreCompileInputs.cache
+C:\Users\seyed\source\repos\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CopyComplete
+C:\Users\seyed\source\repos\REGISTER\REGISTER\obj\Debug\REGISTER.dll
+C:\Users\seyed\source\repos\REGISTER\REGISTER\obj\Debug\REGISTER.pdb
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\REGISTER.dll.config
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\REGISTER.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\REGISTER.pdb
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csc.exe
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csc.exe.config
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csc.rsp
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csi.exe
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csi.exe.config
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\csi.rsp
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.AppContext.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Console.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Net.Http.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.ValueTuple.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\vbc.exe
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\vbc.exe.config
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\vbc.rsp
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.AssemblyReference.cache
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CoreCompileInputs.cache
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CopyComplete
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\obj\Debug\REGISTER.dll
+C:\Users\Farnoosh\Desktop\REGISTER\REGISTER\obj\Debug\REGISTER.pdb
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\REGISTER.dll.config
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\REGISTER.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\REGISTER.pdb
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csc.exe
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csc.exe.config
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csc.rsp
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csi.exe
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csi.exe.config
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\csi.rsp
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.Managed.Core.targets
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.AppContext.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Collections.Immutable.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Console.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Globalization.Calendars.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Net.Http.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Net.Sockets.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Reflection.Metadata.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.ValueTuple.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Xml.XmlDocument.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\vbc.exe
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\vbc.exe.config
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\vbc.rsp
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\roslyn\VBCSCompiler.exe.config
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.AssemblyReference.cache
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CoreCompileInputs.cache
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\obj\Debug\REGISTER.csproj.CopyComplete
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\obj\Debug\REGISTER.dll
+G:\دانشگاه اصفهان-کارشناسی ارشد\ترم 1\پایگاه داده پیشرفته\تمرین\تمرین دوم\REGISTER\REGISTER\obj\Debug\REGISTER.pdb
